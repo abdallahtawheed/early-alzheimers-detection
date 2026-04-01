@@ -18,7 +18,7 @@ predictive accuracy.
 - 5-fold cross-validation for model selection
 - Evaluation across accuracy, precision, recall, specificity, and F1-score
 
-## Results
+## Results (Reduced Feature Set 450 -> 65)
 
 | Model | Accuracy | F1-Score | Mean CV Score |
 |-------|----------|----------|---------------|
